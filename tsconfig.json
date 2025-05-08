@@ -4,6 +4,15 @@
     "module": "esnext",
     "moduleResolution": "bundler",
     "target": "esnext",
+    "types": [
+      "react",
+      "react-dom",
+      "node",
+      "rc-field-form",
+      "rc-select",
+      "rc-table",
+      "rc-picker"
+    ],
     "lib": ["esnext", "dom"],
     "skipLibCheck": false,
     "resolveJsonModule": true,

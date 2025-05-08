@@ -26,7 +26,7 @@ const SelectLang = ({ listLangs }: SelectLangProps) => {
     return (
         <label className="flex lg:flex-row xs:flex-col items-center text-2xl font-bold">
             {langsData.lang === 'ru' ? 'Язык:' : 'Lang:'}
-            <select value={langsData.lang} className="ml-3 h-10 uppercase w-20 lg:mt-0 xs:mt-4 focus:outline-0" onChange={onSelectLang}>
+            <select value={langsData.lang} className="cursor-pointer ml-3 h-10 uppercase w-20 lg:mt-0 xs:mt-4 focus:outline-0" onChange={onSelectLang}>
                 {listLangs.map((lang, indx) => (
                     <option key={indx} value={lang}>
                         {lang}
