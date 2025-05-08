@@ -28,7 +28,7 @@ const InformationMessage = (
 
     return (
         <div className="lg:w-full flex justify-center z-100">
-            <form onSubmit={onAllow} className={`fixed lg:w-1/2 xs:w-90 bottom-0 mb-4 p-6 bg-blue-200/95 dark:bg-gray-600/95 rounded-4xl ${isWarning && 'bg-red-200/95 dark:bg-red-200/95'}`}>
+            <form onSubmit={onAllow} className={`fixed lg:w-1/2 xs:w-70 bottom-0 mb-4 p-6 bg-blue-200/95 dark:bg-gray-600/95 rounded-4xl ${isWarning && 'bg-red-200/95 dark:bg-red-200/95'}`}>
                 {informationMessageData.map(item => (
                     <Fragment key={item.id} >
                         <h4 className={`xs:text-xl my-4 font-bold lg:text-2xl ${isWarning && 'text-red-700'}`}>{item.title}</h4>

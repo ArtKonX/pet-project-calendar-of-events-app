@@ -15,7 +15,7 @@ const Burger = ({ isMenuOpen, setIsMenuOpen, setIsBurger }: BurgerProps) => {
     }
 
     return (
-        <button className="ml-4 xs:block lg:hidden cursor-pointer text-6xl mb-2" onClick={onActionMenu}>≡</button>
+        <button className="ml-3 xs:block lg:hidden cursor-pointer text-6xl mb-2" onClick={onActionMenu}>≡</button>
     )
 }
 

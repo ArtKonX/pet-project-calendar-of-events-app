@@ -45,7 +45,7 @@ export const Header = () => {
     }, [location])
 
     return (
-        <header className='bg-blue-500 dark:bg-blue-700 w-full p-3 px-10 rounded-2xl mt-4'>
+        <header className='bg-blue-500 dark:bg-blue-700 w-full p-3 lg:px-10 xs:px-2 rounded-2xl mt-4'>
             <nav className='flex justify-between items-center'>
                 <Logo />
                 <div className='xs:hidden lg:flex lg:items-center lg:w-full'>
