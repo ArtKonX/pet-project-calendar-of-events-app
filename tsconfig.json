@@ -1,0 +1,27 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "target": "esnext",
+    "lib": ["esnext", "dom"],
+    "skipLibCheck": false,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "baseUrl": "./",
+    "paths": {
+      "@data/*": ["src/data/*"],
+      "@interfaces/*": ["src/interfaces/*"],
+      "@src/*": ["src/*"],
+      "@api/*": ["src/api/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@components/*": ["src/components/*"],
+      "@ui/*": ["src/components/ui-components/*"],
+      "@redux/*": ["src/redux/*"],
+      "@assets/*": ["src/assets/*"]
+    },
+    "jsx": "react-jsx"
+  }
+}

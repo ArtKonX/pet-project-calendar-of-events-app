@@ -1,0 +1,67 @@
+{
+    "ru": {
+        "text": [
+            {
+                "id": 1,
+                "title": "Особенности проекта:",
+                "list": [
+                    "Минималистичный дизайн",
+                    "Поддержка push уведомлений и обычных уведомлений",
+                    "Поддержка смены языка в header",
+                    "Удаление, редактирование и создание событий",
+                    "Простота использования"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Почему я его создал:",
+                "list": [
+                    "Люблю экспериментировать с новыми идеями",
+                    "Хотел создать что-то простое и полезное",
+                    "Иногда даже простые решения могут быть полезны"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Важно понимать:",
+                "list": [
+                    "Push уведомления могут приходить с задержкой в 30 секунд",
+                    "Это не профессиональный календарь напоминаний",
+                    "Это веб-приложение не претендует на звание лучшего календаря напоминаний в мире — это просто забавный проект, который может быть полезен в повседневной жизни. Если вам нравится — пользуйтесь! Если нет — всегда можно найти более серьезные решения."
+                ]
+            }
+        ]
+    },
+    "en": {
+        "text": [
+            {
+                "id": 1,
+                "title": "Project Features:",
+                "list": [
+                    "Minimalistic design",
+                    "Push notification support",
+                    "Event deletion, editing, and creation",
+                    "Easy to use"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Why I Created It:",
+                "list": [
+                    "I enjoy experimenting with new ideas",
+                    "I wanted to create something simple and useful",
+                    "Sometimes even simple solutions can be beneficial"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Important to Understand:",
+                "list": [
+                    "Push notifications may arrive with a 30-second delay",
+                    "This is not a professional reminder calendar",
+                    "This web app doesn't claim to be the best reminder calendar in the world — it's just a fun project that can be useful in everyday life. If you like it, feel free to use it! If not, there are always more serious solutions available."
+                ]
+            }
+        ]
+    }
+}

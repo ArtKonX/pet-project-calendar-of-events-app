@@ -1,0 +1,50 @@
+{
+    "ru": {
+        "text": [
+            {
+                "id": 1,
+                "text": "Привет! Я начинающий frontend-разработчик, и это календарь мероприятий."
+            },
+            {
+                "id": 2,
+                "text": "Календарь мероприятий — это небольшой проект, который я создал для развлечения и практики. Хотя сервис может показаться несерьезным, он выполняет свою основную задачу — помогает быстро ориентироваться в своих запланированных мероприятиях."
+            },
+            {
+                "id": 3,
+                "text": "С уважением,"
+            },
+            {
+                "id": 4,
+                "text": "Ваш веб-разработчик ArtKonX"
+            },
+            {
+                "id": 5,
+                "text": "P.S. У меня были и более сложные проекты, но иногда простые решения оказываются самыми полезными!"
+            }
+        ]
+    },
+    "en": {
+        "text": [
+            {
+                "id": 1,
+                "text": "Hello! I'm an aspiring frontend developer, and this is an event calendar."
+            },
+            {
+                "id": 2,
+                "text": "The event calendar is a small project I created for fun and practice. Although the service may seem lighthearted, it fulfills its main purpose — helping users quickly navigate their scheduled events."
+            },
+            {
+                "id": 3,
+                "text": "Best regards,"
+            },
+            {
+                "id": 4,
+                "text": "Your web developer ArtKonX"
+            },
+            {
+                "id": 5,
+                "text": "P.S. I've worked on more complex projects, but sometimes simple solutions turn out to be the most useful!"
+            }
+        ]
+    }
+}

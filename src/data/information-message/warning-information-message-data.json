@@ -1,0 +1,20 @@
+{
+    "ru": {
+        "data": [
+            {
+                "id": 1,
+                "title": "Не разрешены уведомления:",
+                "text": "Разрешите браузеру отправлять Вам уведомления с этого веб-сайта, иначе Вы не будете получать напоминания о событиях("
+            }
+        ]
+    },
+    "en": {
+        "data": [
+            {
+                "id": 1,
+                "title": "Notifications are disabled:",
+                "text": "Please allow your browser to send notifications from this website, otherwise you will not receive event reminders."
+            }
+        ]
+    }
+}

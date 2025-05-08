@@ -1,0 +1,30 @@
+{
+    "ru": {
+        "menu": [
+            {
+                "id": 1,
+                "title": "Главная",
+                "to": "/"
+            },
+            {
+                "id": 2,
+                "title": "О нас",
+                "to": "/about-us"
+            }
+        ]
+    },
+    "en": {
+        "menu": [
+            {
+                "id": 1,
+                "title": "Home",
+                "to": "/"
+            },
+            {
+                "id": 2,
+                "title": "About us",
+                "to": "/about-us"
+            }
+        ]
+    }
+}

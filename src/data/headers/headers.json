@@ -1,0 +1,22 @@
+{
+    "ru": {
+        "headers": {
+            "main": "Календарь:",
+            "about": "О нас:",
+            "events": "Все ваши события на ",
+            "create": "Создание нового события:",
+            "edit": "Редактирование события на ",
+            "notFound": "Ошибка 404:("
+        }
+    },
+    "en": {
+        "headers": {
+            "main": "Calendar:",
+            "about": "About us:",
+            "events": "All your events for ",
+            "create": "Creating a new event:",
+            "edit": "Editing an event for ",
+            "notFound": "Error 404:("
+        }
+    }
+}

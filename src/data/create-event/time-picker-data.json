@@ -1,0 +1,46 @@
+{
+    "ru": {
+        "data": [
+            {
+                "id": 1,
+                "text": "Время начала:",
+                "name": "eventFrom",
+                "defaultValue": "10:45"
+            },
+            {
+                "id": 2,
+                "text": "Время окончания:",
+                "name": "eventTo",
+                "defaultValue": "11:45"
+            },
+            {
+                "id": 3,
+                "text": "За сколько напоминать о мероприятии:",
+                "name": "remindTime",
+                "defaultValue": "00:30"
+            }
+        ]
+    },
+    "en": {
+        "data": [
+            {
+                "id": 1,
+                "text": "Start time:",
+                "name": "eventFrom",
+                "defaultValue": "10:45"
+            },
+            {
+                "id": 2,
+                "text": "End time:",
+                "name": "eventTo",
+                "defaultValue": "11:45"
+            },
+            {
+                "id": 3,
+                "text": "How many minutes before event to remind:",
+                "name": "remindTime",
+                "defaultValue": "00:30"
+            }
+        ]
+    }
+}

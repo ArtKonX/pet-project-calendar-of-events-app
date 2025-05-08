@@ -1,0 +1,12 @@
+{
+    "ru": {
+        "edit": "Редактировать",
+        "del": "Удалить",
+        "add": "Добавить еще событие"
+    },
+    "en": {
+        "edit": "Edit",
+        "del": "Delate",
+        "add": "Add another event"
+    }
+}

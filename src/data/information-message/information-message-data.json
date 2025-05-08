@@ -1,0 +1,30 @@
+{
+    "ru": {
+        "data": [
+            {
+                "id": 1,
+                "title": "Локальное хранилище:",
+                "text": "Сайт использует localStorage для сохранения настроек и правильной работы функций. Данные хранятся на вашем устройстве."
+            },
+            {
+                "id": 2,
+                "title": "Согласие:",
+                "text": "Нажимая кнопку, вы соглашаетесь на использование localStorage. Настройки можно изменить в браузере. Согласие необходимо для полноценной работы сайта."
+            }
+        ]
+    },
+    "en": {
+        "data": [
+            {
+                "id": 1,
+                "title": "Local Storage:",
+                "text": "The website uses localStorage to save settings and ensure proper functioning of features. Data is stored on your device."
+            },
+            {
+                "id": 2,
+                "title": "Consent:",
+                "text": "By clicking the button, you agree to the use of localStorage. Settings can be changed in your browser. Consent is required for the website to function properly."
+            }
+        ]
+    }
+}

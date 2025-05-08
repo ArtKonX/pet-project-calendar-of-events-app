@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-xs: 25rem;
+  --breakpoint-2xl: 100rem;
+  --breakpoint-3xl: 120rem;
+}
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ant-picker-calendar-header, .ant-picker-date-panel, .ant-picker-cell, .ant-picker-body  {
+  background-color: rgba(0, 0, 0, 0.11);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+
+  .ant-picker-calendar-header, .ant-picker-date-panel, .ant-picker-cell, .ant-picker-body  {
+    background-color: white;
+  }
+}
